@@ -1,0 +1,31 @@
+/* style.css */
+    html {
+            height: 100%;
+        }
+
+        body {
+            height: 100%;
+            background-image:
+                url('latar_bekang.jpg.jpeg');
+            background-size: cover;
+            background-repeat: no-repeat;
+            background-position: center 50%;
+            font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: orangered;
+    text-align: center;
+    background-color: black;
+}
+
+    h2 {
+            font-size: large;
+            font-style: italic;
+}
+
+a {
+            text-decoration: none;
+            font-size: 14px;
+            font-weight: bold;
+}
